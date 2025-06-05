@@ -1,16 +1,87 @@
-## Hi there 👋
+<h1 align="center">Marcus Lobato | Futuro Analista SOC N1 🛡️</h1>
 
-<!--
-**Mvlobato/Mvlobato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=Perfil%20de%20Cybersecurity%20em%20Construção&fontSize=30&fontAlignY=40&desc=SOC%20Analyst%20%7C%20Estudante%20de%20Ciberseguran%C3%A7a&descSize=18&animation=fadeIn" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Cisco%20Networking-✔️-blue?style=flat-square&logo=cisco" />
+  <img src="https://img.shields.io/badge/Google%20Cybersecurity-Módulo%202-yellow?style=flat-square&logo=google" />
+  <img src="https://img.shields.io/badge/TryHackMe-PreSecurity%20✔️-red?style=flat-square&logo=tryhackme" />
+  <img src="https://img.shields.io/badge/Splunk-Básico-green?style=flat-square&logo=splunk" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Sobre mim
+
+🎯 Focado em conquistar minha primeira oportunidade como **Analista SOC N1**  
+📚 Estudando cibersegurança com foco em redes, defesa e detecção de ameaças  
+🧰 Prática constante com labs do TryHackMe e queries no Splunk  
+🧪 Criando projetos práticos e repositórios com evidências reais de aprendizado  
+
+---
+
+## 📚 Formação Técnica (Trilha SOC N1)
+
+### 1. Cisco – Networking Basics  
+✔️ Domínio de fundamentos de redes: IP, TCP/UDP, DNS, NAT, sub-redes  
+📄 Anotações disponíveis nos repositórios
+
+---
+
+### 2. Certificado de Cibersegurança da Google (Módulos 1 e 2)  
+✔️ Conceitos de segurança da informação  
+✔️ Modelo CIA, ameaças, boas práticas de segurança  
+
+---
+
+### 3. TryHackMe – Pre-Security Path ✅  
+✔️ Hands-on com Linux, terminal, permissões e segurança básica  
+💡 Esse foi meu divisor de águas: da teoria para a prática!
+
+---
+
+### 4. Splunk – Curso "Fundamentals 1"  
+✔️ Primeiras queries no Splunk aplicadas a logs  
+✔️ Prints e comandos disponíveis nos repositórios abaixo 👇
+
+---
+
+## 🚀 Destaques que me colocam à frente
+
+- ✅ Repositório com evidências visuais (print de labs, terminal, dashboards)  
+- ✅ Estágio simulado concluído na plataforma **The Forage**  
+- ✅ Curso **MITRE ATT&CK Fundamentals** realizado para entender técnicas reais de ataque  
+
+---
+
+## 📂 Repositórios Relevantes
+
+🔎 [`cyber-labs`](https://github.com/SEU-USUARIO/cyber-labs): prints e insights dos labs do TryHackMe, Cisco e Splunk  
+📊 [`splunk-queries`](https://github.com/SEU-USUARIO/splunk-queries): comandos e visualizações em ambientes simulados  
+🧠 [`google-cybersec-notes`](https://github.com/SEU-USUARIO/google-cybersec-notes): resumos organizados dos módulos da Google
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mvlobato&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Mvlobato&theme=tokyonight&hide_border=true" />
+</p>
+
+
+---
+
+## 📫 Contato
+
+- 💼 [LinkedIn](https://linkedin.com/in/marcuslobatoti/)
+- ✉️ Email: mvlobato1@gmail.com
+
+<p align="center">
+  🔐 *"Quem domina a detecção, domina a defesa."*
+</p>
