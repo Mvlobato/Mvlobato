@@ -1,7 +1,7 @@
-<h1 align="center">MarCus Lobato | Futuro Analista SOC N1 🛡️</h1>
+<h1 align="center">MarCus Lobato | Analista SOC N1 em formação 👨‍💻</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=Perfil%20de%20Cybersecurity%20em%20Construção&fontSize=30&fontAlignY=40&desc=SOC%20Analyst%20%7C%20Estudante%20de%20Ciberseguran%C3%A7a&descSize=18&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f3f1f2,100:1049dc&height=180&section=header&text=Bem-vindo%20ao%20meu%20perfil!&fontSize=30&fontAlignY=40&desc=SOC%20Analyst%20%7C%20Cybersecurity%20Student&descSize=18&animation=fadeIn" />
 </p>
 
 <p align="center">
