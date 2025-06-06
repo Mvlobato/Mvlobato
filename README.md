@@ -13,7 +13,7 @@
 
 ---
 
-## 🧠 Sobre mim
+## 🙋‍♂️ Sobre mim
 
 🎯 Focado em conquistar minha primeira oportunidade como **Analista SOC N1**  
 📚 Estudando cibersegurança com foco em redes, defesa e detecção de ameaças  
@@ -83,5 +83,5 @@
 - ✉️ Email: mvlobato1@gmail.com
 
 <p align="center">
-  🔐 *"Quem domina a detecção, domina a defesa."*
+  🔐 *"O analista vê ruído. O operador vê padrão."*
 </p>
