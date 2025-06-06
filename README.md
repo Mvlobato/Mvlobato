@@ -60,7 +60,7 @@
 
 🔎 [`cyber-labs`](https://github.com/SEU-USUARIO/cyber-labs): prints e insights dos labs do TryHackMe, Cisco e Splunk  
 📊 [`splunk-queries`](https://github.com/SEU-USUARIO/splunk-queries): comandos e visualizações em ambientes simulados  
-🧠 [`google-cybersec-notes`](https://github.com/SEU-USUARIO/google-cybersec-notes): resumos organizados dos módulos da Google
+💻 [`google-cybersec-notes`](https://github.com/SEU-USUARIO/google-cybersec-notes): resumos organizados dos módulos da Google
 
 ---
 
